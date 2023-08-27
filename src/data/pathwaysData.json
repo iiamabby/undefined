@@ -1,0 +1,21 @@
+{
+    "techPaths": [
+      {
+        "id": "0",
+        "title": "Software Engineer",
+        "steps": [
+          "Start with foundational programming languages: Python, Java, or C++.",
+          "Learn about data structures and algorithms.",
+          "Explore web development with HTML, CSS, and JavaScript.",
+          "Dive into backend development using frameworks like Node.js and Express.",
+          "Master version control with Git and collaborative development.",
+          "Learn about databases and SQL.",
+          "Explore software architecture and design patterns.",
+          "Build real-world projects to apply your skills.",
+          "Study computer networking and security.",
+          "Stay updated with industry trends and continue learning new technologies."
+        ]
+      }
+    ]
+  }
+  
