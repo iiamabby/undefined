@@ -9,7 +9,7 @@ function Home() {
       <section
           className="hero"
           style={{
-            backgroundImage: `url(${process.env.PUBLIC_URL}/images/temp-hero.png)`, // Replace with your image path
+            backgroundImage: `url(${process.env.PUBLIC_URL}/images/abstract-5035778_1280.jpg)`, // Replace with your image path
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             backgroundRepeat: 'no-repeat',
@@ -35,19 +35,19 @@ function Home() {
 
         {/* Content */}
         <Container style={{ position: 'relative', zIndex: 1 }}>
-          <Typography variant="h2" sx={{ mt: 4, fontWeight: 'bold', background: 'linear-gradient(to right, #FFD700, #800080)', '-webkit-background-clip': 'text', '-webkit-text-fill-color': 'transparent' }}>
+          <Typography variant="h2" sx={{ mt: 4, fontWeight: 'bold' }}>
             Welcome to Kei Te Ao Whakamāramatanga: UNDEFINED
           </Typography>
           <Typography variant="h5" sx={{ mt: 2 }}>
             Your Pathway to Empowerment in S.T.E.A.M
           </Typography>
-          <Button variant="contained" color="secondary" size="large" sx={{ mt: 3, backgroundColor: Theme.colors.accent }}>
+          <Button variant="contained" color="secondary" size="large" sx={{ mt: 3, backgroundColor: Theme.colors.cta }}>
             Get Started
           </Button>
         </Container>
       </section>
 
-        <section className="introduction" style={{ background: Theme.colors.primary, color: '#000000', padding: '80px 0' }}>
+        <section className="introduction" style={{ padding: '80px 0' }}>
           <Container>
             <Typography variant="h2" sx={{ marginBottom: 4 }}>
               Bridging Education and Career Aspirations
@@ -58,7 +58,7 @@ function Home() {
           </Container>
         </section>
 
-        <section className="steam-importance" style={{ background: Theme.colors.accent, color: '#000000', padding: '80px 0' }}>
+        <section className="steam-importance" style={{  padding: '80px 0' }}>
           <Container>
             <Typography variant="h2" sx={{ marginBottom: 4 }}>
               The Importance of S.T.E.A.M Education
@@ -89,13 +89,8 @@ function Home() {
                 />
               </Grid>
             </Grid>
-
-            
           </Container>
         </section>
-
-        {/* Add more sections here with relevant content */}
-
       </main>
     </div>
   );

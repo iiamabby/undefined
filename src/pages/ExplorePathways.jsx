@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, Typography, Grid, Card, CardContent, Button } from '@mui/material';
 import { Link } from 'react-router-dom';
-import Theme from '../components/Theme';
+import theme from '../components/Theme';
 
 const ExplorePathways = () => {
   return (

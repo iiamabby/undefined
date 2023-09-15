@@ -5,7 +5,7 @@ import Theme from '../components/Theme';
 
 function Header() {
   return (
-    <AppBar position="static" style={{ background: Theme.colors.black }}>
+    <AppBar position="static" style={{ background: Theme.colors.primary}}>
       <Toolbar>
         <Typography variant="h6" component="div" sx={{ flexGrow: 1, fontWeight: 'bold', letterSpacing: '1px' }}>
           Kei Te Ao Whakamāramatanga: UNDEFINED

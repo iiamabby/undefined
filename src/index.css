@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+body {
+  height:100vh;
+  margin: 0; /* To remove default margin */
+  padding: 0; /* To remove default padding */
+  overflow-x: hidden; /* Optional: Prevent horizontal scrolling */
+  font-family: Arial, sans-serif; /* Optional: Define a font-family */
+}

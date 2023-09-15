@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: black;
+  margin: 0; /* To remove default margin */
+  padding: 0; /* To remove default padding */
+  overflow-x: hidden; /* Optional: Prevent horizontal scrolling */
+  font-family: Arial, sans-serif; /* Optional: Define a font-family */
+  color: white; /* Optional: Set text color to white */
+}

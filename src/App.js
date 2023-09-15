@@ -4,6 +4,8 @@ import ExplorePathways from './pages/ExplorePathways';
 import Techpaths from './pages/Techpaths';
 import PreDefinedPath from './components/PreDefinedPath';
 import pathwaysData from './data/pathwaysData.json';
+import PathInfoPage from './pages/PathInfoPage';
+
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 function App() {
@@ -16,6 +18,7 @@ function App() {
           <Route path="/explore" element={<ExplorePathways/>} /> 
           <Route path="/techpaths" element={<Techpaths/>} /> 
           <Route path="/techpaths/:id" element={<PreDefinedPath pathways={pathwaysData.techPaths} />} />
+          <Route path="/pathinfo/:id" element={<PathInfoPage pathways={pathwaysData.techPaths} />} />
           <Route path="/techpaths" render={() => <Techpaths pathways={pathwaysData.techPaths} />} />
           {/* Other routes */}
         </Routes>
