@@ -1,0 +1,590 @@
+{
+    "games": {
+        "Game Designer": {
+          "title": "Game Designer",
+          "pay": "$65,000 - $120,000 per year",
+          "courses": [
+            {
+              "institute": "Toi Ohomai",
+              "courses": [
+                { "course": "Game Development", "level": "Level 5" },
+                { "course": "Game Development", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "Game Developer": {
+          "title": "Game Developer",
+          "pay": "$60,000 - $110,000 per year",
+          "courses": [
+            {
+              "institute": "Toi Ohomai",
+              "courses": [
+                { "course": "Game Development", "level": "Level 5" },
+                { "course": "Game Development", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "Game Tester": {
+          "title": "Game Tester",
+          "pay": "$45,000 - $85,000 per year",
+          "courses": [
+            {
+              "institute": "Toi Ohomai",
+              "courses": [
+                { "course": "Game Testing", "level": "Level 5" },
+                { "course": "Game Testing", "level": "Level 6" }
+              ]
+            }
+          ]
+        }
+      },
+      
+
+    
+      "art": {
+        "Graphic Designer": {
+          "title": "Graphic Designer",
+          "pay": "$45,000 - $80,000 per year",
+          "courses": [
+            {
+              "institute": "Toi Ohomai",
+              "courses": [
+                { "course": "Information Technology", "level": "Level 5" },
+                { "course": "Information Technology", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "Illustrator": {
+          "title": "Illustrator",
+          "pay": "$40,000 - $70,000 per year",
+          "courses": [
+            {
+              "institute": "Toi Ohomai",
+              "courses": [
+                { "course": "Digital Illustration", "level": "Level 5" },
+                { "course": "Digital Illustration", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "UI/UX Designer": {
+          "title": "UI/UX Designer",
+          "pay": "$50,000 - $90,000 per year",
+          "courses": [
+            {
+              "institute": "Toi Ohomai",
+              "courses": [
+                { "course": "User Interface Design", "level": "Level 5" },
+                { "course": "User Interface Design", "level": "Level 6" }
+              ]
+            }
+          ]
+        }
+      },
+      
+      "artificial_intelligence": {
+        "AI Research Scientist": {
+          "title": "AI Research Scientist",
+          "pay": "$80,000 - $150,000 per year",
+          "courses": [
+            {
+              "institute": "AI University",
+              "courses": [
+                { "course": "Artificial Intelligence", "level": "Level 5" },
+                { "course": "AI Research", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "Machine Learning Engineer": {
+          "title": "Machine Learning Engineer",
+          "pay": "$70,000 - $130,000 per year",
+          "courses": [
+            {
+              "institute": "AI University",
+              "courses": [
+                { "course": "Machine Learning", "level": "Level 5" },
+                { "course": "Advanced ML", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "AI Ethics Consultant": {
+          "title": "AI Ethics Consultant",
+          "pay": "$75,000 - $140,000 per year",
+          "courses": [
+            {
+              "institute": "AI University",
+              "courses": [
+                { "course": "Ethics in AI", "level": "Level 5" },
+                { "course": "AI Policy", "level": "Level 6" }
+              ]
+            }
+          ]
+        }
+      },
+      
+      "astronomy": {
+        "Astronomer": {
+          "title": "Astronomer",
+          "pay": "$50,000 - $100,000 per year",
+          "courses": [
+            {
+              "institute": "Astronomy Institute",
+              "courses": [
+                { "course": "Astronomy", "level": "Level 5" },
+                { "course": "Astronomy Research", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "Astrophysicist": {
+          "title": "Astrophysicist",
+          "pay": "$60,000 - $120,000 per year",
+          "courses": [
+            {
+              "institute": "Astronomy Institute",
+              "courses": [
+                { "course": "Astrophysics", "level": "Level 5" },
+                { "course": "Advanced Astrophysics", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "Space Exploration Engineer": {
+          "title": "Space Exploration Engineer",
+          "pay": "$70,000 - $130,000 per year",
+          "courses": [
+            {
+              "institute": "Astronomy Institute",
+              "courses": [
+                { "course": "Space Engineering", "level": "Level 5" },
+                { "course": "Space Exploration", "level": "Level 6" }
+              ]
+            }
+          ]
+        }
+      },
+      
+      "biology": {
+        "Biologist": {
+          "title": "Biologist",
+          "pay": "$50,000 - $100,000 per year",
+          "courses": [
+            {
+              "institute": "Bio Institute",
+              "courses": [
+                { "course": "Biology", "level": "Level 5" },
+                { "course": "Biology Research", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "Geneticist": {
+          "title": "Geneticist",
+          "pay": "$60,000 - $120,000 per year",
+          "courses": [
+            {
+              "institute": "Bio Institute",
+              "courses": [
+                { "course": "Genetics", "level": "Level 5" },
+                { "course": "Advanced Genetics", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "Ecologist": {
+          "title": "Ecologist",
+          "pay": "$55,000 - $110,000 per year",
+          "courses": [
+            {
+              "institute": "Bio Institute",
+              "courses": [
+                { "course": "Ecology", "level": "Level 5" },
+                { "course": "Environmental Studies", "level": "Level 6" }
+              ]
+            }
+          ]
+        }
+      
+    },
+    "chemistry": {
+        "Chemist": {
+          "title": "Chemist",
+          "pay": "$50,000 - $100,000 per year",
+          "courses": [
+            {
+              "institute": "Chemistry School",
+              "courses": [
+                { "course": "Chemistry", "level": "Level 5" },
+                { "course": "Chemistry Research", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "Analytical Chemist": {
+          "title": "Analytical Chemist",
+          "pay": "$60,000 - $120,000 per year",
+          "courses": [
+            {
+              "institute": "Chemistry School",
+              "courses": [
+                { "course": "Analytical Chemistry", "level": "Level 5" },
+                { "course": "Advanced Analytical Chemistry", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "Materials Scientist": {
+          "title": "Materials Scientist",
+          "pay": "$55,000 - $110,000 per year",
+          "courses": [
+            {
+              "institute": "Chemistry School",
+              "courses": [
+                { "course": "Materials Science", "level": "Level 5" },
+                { "course": "Advanced Materials Science", "level": "Level 6" }
+              ]
+            }
+          ]
+        }
+      },
+      
+      "civil_engineering": {
+        "Civil Engineer": {
+          "title": "Civil Engineer",
+          "pay": "$60,000 - $110,000 per year",
+          "courses": [
+            {
+              "institute": "Engineering University",
+              "courses": [
+                { "course": "Civil Engineering", "level": "Level 5" },
+                { "course": "Civil Engineering Research", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "Structural Engineer": {
+          "title": "Structural Engineer",
+          "pay": "$65,000 - $120,000 per year",
+          "courses": [
+            {
+              "institute": "Engineering University",
+              "courses": [
+                { "course": "Structural Engineering", "level": "Level 5" },
+                { "course": "Advanced Structural Engineering", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "Transportation Engineer": {
+          "title": "Transportation Engineer",
+          "pay": "$55,000 - $100,000 per year",
+          "courses": [
+            {
+              "institute": "Engineering University",
+              "courses": [
+                { "course": "Transportation Engineering", "level": "Level 5" },
+                { "course": "Advanced Transportation Engineering", "level": "Level 6" }
+              ]
+            }
+          ]
+        }
+      },
+      
+      "cloud_computing": {
+        "Cloud Solutions Architect": {
+          "title": "Cloud Solutions Architect",
+          "pay": "$90,000 - $150,000 per year",
+          "courses": [
+            {
+              "institute": "Cloud Academy",
+              "courses": [
+                { "course": "Cloud Architecture", "level": "Level 5" },
+                { "course": "Advanced Cloud Architecture", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "DevOps Engineer": {
+          "title": "DevOps Engineer",
+          "pay": "$80,000 - $140,000 per year",
+          "courses": [
+            {
+              "institute": "Cloud Academy",
+              "courses": [
+                { "course": "DevOps", "level": "Level 5" },
+                { "course": "Advanced DevOps", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "Cloud Security Specialist": {
+          "title": "Cloud Security Specialist",
+          "pay": "$80,000 - $140,000 per year",
+          "courses": [
+            {
+              "institute": "Cloud Academy",
+              "courses": [
+                { "course": "Cloud Security", "level": "Level 5" },
+                { "course": "Advanced Cloud Security", "level": "Level 6" }
+              ]
+            }
+          ]
+        }
+      },
+      
+      "cybersecurity": {
+        "Cyber Security Analyst": {
+          "title": "Cyber Security Analyst",
+          "pay": "$70,000 - $120,000 per year",
+          "courses": [
+            {
+              "institute": "Cybersecurity University",
+              "courses": [
+                { "course": "Cyber Security", "level": "Level 5" },
+                { "course": "Advanced Cyber Security", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "Ethical Hacker": {
+          "title": "Ethical Hacker",
+          "pay": "$80,000 - $130,000 per year",
+          "courses": [
+            {
+              "institute": "Cybersecurity University",
+              "courses": [
+                { "course": "Ethical Hacking", "level": "Level 5" },
+                { "course": "Advanced Ethical Hacking", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "Security Consultant": {
+          "title": "Security Consultant",
+          "pay": "$85,000 - $140,000 per year",
+          "courses": [
+            {
+              "institute": "Cybersecurity University",
+              "courses": [
+                { "course": "Security Consulting", "level": "Level 5" },
+                { "course": "Advanced Security Consulting", "level": "Level 6" }
+              ]
+            }
+          ]
+        }
+      },      
+      "physics": {
+        "Physicist": {
+          "title": "Physicist",
+          "pay": "$60,000 - $120,000 per year",
+          "courses": [
+            {
+              "institute": "Physics Institute",
+              "courses": [
+                { "course": "Physics", "level": "Level 5" },
+                { "course": "Advanced Physics", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "Particle Physicist": {
+          "title": "Particle Physicist",
+          "pay": "$70,000 - $130,000 per year",
+          "courses": [
+            {
+              "institute": "Physics Institute",
+              "courses": [
+                { "course": "Particle Physics", "level": "Level 5" },
+                { "course": "Advanced Particle Physics", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "Quantum Physicist": {
+          "title": "Quantum Physicist",
+          "pay": "$75,000 - $140,000 per year",
+          "courses": [
+            {
+              "institute": "Physics Institute",
+              "courses": [
+                { "course": "Quantum Physics", "level": "Level 5" },
+                { "course": "Advanced Quantum Physics", "level": "Level 6" }
+              ]
+            }
+          ]
+        }
+      },      
+      "psychology": {
+        "Psychologist": {
+          "title": "Psychologist",
+          "pay": "$50,000 - $90,000 per year",
+          "courses": [
+            {
+              "institute": "Psychology School",
+              "courses": [
+                { "course": "Psychology", "level": "Level 5" },
+                { "course": "Advanced Psychology", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "Clinical Psychologist": {
+          "title": "Clinical Psychologist",
+          "pay": "$60,000 - $110,000 per year",
+          "courses": [
+            {
+              "institute": "Psychology School",
+              "courses": [
+                { "course": "Clinical Psychology", "level": "Level 5" },
+                { "course": "Advanced Clinical Psychology", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "Counseling Psychologist": {
+          "title": "Counseling Psychologist",
+          "pay": "$55,000 - $100,000 per year",
+          "courses": [
+            {
+              "institute": "Psychology School",
+              "courses": [
+                { "course": "Counseling Psychology", "level": "Level 5" },
+                { "course": "Advanced Counseling Psychology", "level": "Level 6" }
+              ]
+            }
+          ]
+        }
+      },
+      
+      "social_science": {
+        "Sociologist": {
+          "title": "Sociologist",
+          "pay": "$45,000 - $85,000 per year",
+          "courses": [
+            {
+              "institute": "Social Science University",
+              "courses": [
+                { "course": "Sociology", "level": "Level 5" },
+                { "course": "Advanced Sociology", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "Anthropologist": {
+          "title": "Anthropologist",
+          "pay": "$50,000 - $90,000 per year",
+          "courses": [
+            {
+              "institute": "Social Science University",
+              "courses": [
+                { "course": "Anthropology", "level": "Level 5" },
+                { "course": "Advanced Anthropology", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "Political Scientist": {
+          "title": "Political Scientist",
+          "pay": "$55,000 - $100,000 per year",
+          "courses": [
+            {
+              "institute": "Social Science University",
+              "courses": [
+                { "course": "Political Science", "level": "Level 5" },
+                { "course": "Advanced Political Science", "level": "Level 6" }
+              ]
+            }
+          ]
+        }
+      },      
+      "software_engineering": {
+        "Software Engineer": {
+          "title": "Software Engineer",
+          "pay": "$70,000 - $130,000 per year",
+          "courses": [
+            {
+              "institute": "Software Engineering School",
+              "courses": [
+                { "course": "Software Engineering", "level": "Level 5" },
+                { "course": "Advanced Software Engineering", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "Full-Stack Developer": {
+          "title": "Full-Stack Developer",
+          "pay": "$65,000 - $120,000 per year",
+          "courses": [
+            {
+              "institute": "Software Engineering School",
+              "courses": [
+                { "course": "Full-Stack Development", "level": "Level 5" },
+                { "course": "Advanced Full-Stack Development", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "DevOps Engineer": {
+          "title": "DevOps Engineer",
+          "pay": "$75,000 - $140,000 per year",
+          "courses": [
+            {
+              "institute": "Software Engineering School",
+              "courses": [
+                { "course": "DevOps", "level": "Level 5" },
+                { "course": "Advanced DevOps", "level": "Level 6" }
+              ]
+            }
+          ]
+        }
+      },
+      
+      "web": {
+        "Web Designer": {
+          "title": "Web Designer",
+          "pay": "$50,000 - $100,000 per year",
+          "courses": [
+            {
+              "institute": "Web Design Institute",
+              "courses": [
+                { "course": "Web Design", "level": "Level 5" },
+                { "course": "Advanced Web Design", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "Front-End Developer": {
+          "title": "Front-End Developer",
+          "pay": "$60,000 - $110,000 per year",
+          "courses": [
+            {
+              "institute": "Web Development School",
+              "courses": [
+                { "course": "Front-End Development", "level": "Level 5" },
+                { "course": "Advanced Front-End Development", "level": "Level 6" }
+              ]
+            }
+          ]
+        },
+        "Back-End Developer": {
+          "title": "Back-End Developer",
+          "pay": "$65,000 - $120,000 per year",
+          "courses": [
+            {
+              "institute": "Web Development School",
+              "courses": [
+                { "course": "Back-End Development", "level": "Level 5" },
+                { "course": "Advanced Back-End Development", "level": "Level 6" }
+              ]
+            }
+          ]
+        }
+      }
+      
+  }
+  

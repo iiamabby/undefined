@@ -1,0 +1,1365 @@
+,
+    {"civil_engineering": [
+      {
+        "id": 1,
+        "title": "Structural Engineering",
+        "description": "Structural engineering focuses on the design and analysis of structures like buildings and bridges.",
+        "skills": [
+          {
+            "name": "Structural Analysis",
+            "description": "Analyzing the behavior and stability of structural systems.",
+            "type": "Skill"
+          },
+          {
+            "name": "Reinforced Concrete Design",
+            "description": "Designing structures using reinforced concrete for added strength.",
+            "type": "Skill"
+          },
+          {
+            "name": "Steel Structure Design",
+            "description": "Designing structures using steel for its structural properties.",
+            "type": "Skill"
+          },
+          {
+            "name": "Wooden Structure Design",
+            "description": "Designing structures using wood, considering its properties and sustainability.",
+            "type": "Skill"
+          },
+          {
+            "name": "Earthquake Engineering",
+            "description": "Designing earthquake-resistant structures and analyzing seismic forces.",
+            "type": "Skill"
+          },
+          {
+            "name": "Bridge Engineering",
+            "description": "Specializing in the design and maintenance of bridges and related structures.",
+            "type": "Skill"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Transportation Engineering",
+        "description": "Transportation engineering deals with the planning and design of transportation systems.",
+        "skills": [
+          {
+            "name": "Traffic Flow Analysis",
+            "description": "Analyzing traffic patterns and optimizing transportation networks.",
+            "type": "Skill"
+          },
+          {
+            "name": "Public Transportation Planning",
+            "description": "Planning and designing public transportation systems.",
+            "type": "Skill"
+          },
+          {
+            "name": "Highway and Road Design",
+            "description": "Designing safe and efficient highways and roads.",
+            "type": "Skill"
+          },
+          {
+            "name": "Traffic Signal Management",
+            "description": "Managing and optimizing traffic signals and intersections.",
+            "type": "Skill"
+          },
+          {
+            "name": "Transportation Modeling",
+            "description": "Creating mathematical models to simulate and improve transportation systems.",
+            "type": "Skill"
+          },
+          {
+            "name": "Railway Engineering",
+            "description": "Designing and managing railway systems and infrastructure.",
+            "type": "Skill"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Geotechnical Engineering",
+        "description": "Geotechnical engineering deals with the study of soil and rock properties and their application in civil engineering projects.",
+        "skills": [
+          {
+            "name": "Soil Mechanics",
+            "description": "Understanding the behavior and properties of soils under various conditions.",
+            "type": "Skill"
+          },
+          {
+            "name": "Foundation Engineering",
+            "description": "Designing foundations for structures and ensuring their stability on various soil types.",
+            "type": "Skill"
+          },
+          {
+            "name": "Slope Stability Analysis",
+            "description": "Assessing and mitigating the risks associated with soil and rock slopes.",
+            "type": "Skill"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Environmental Engineering",
+        "description": "Environmental engineering focuses on addressing environmental challenges and improving sustainability.",
+        "skills": [
+          {
+            "name": "Water Treatment and Management",
+            "description": "Designing and implementing systems for treating and managing water resources.",
+            "type": "Skill"
+          },
+          {
+            "name": "Air Quality Monitoring",
+            "description": "Monitoring and controlling air pollution to improve air quality.",
+            "type": "Skill"
+          },
+          {
+            "name": "Environmental Impact Assessment",
+            "description": "Assessing and mitigating the environmental impact of engineering projects.",
+            "type": "Skill"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Construction Management",
+        "description": "Construction management involves planning, coordinating, and overseeing construction projects.",
+        "skills": [
+          {
+            "name": "Project Scheduling",
+            "description": "Developing and managing project schedules to ensure timely completion.",
+            "type": "Skill"
+          },
+          {
+            "name": "Cost Estimation",
+            "description": "Estimating project costs and managing budgets for construction projects.",
+            "type": "Skill"
+          },
+          {
+            "name": "Quality Control",
+            "description": "Ensuring that construction work meets quality standards and specifications.",
+            "type": "Skill"
+          }
+        ]
+      }
+    ],
+    "electrical_engineering": [
+      {
+        "id": 1,
+        "title": "Power Systems",
+        "description": "Power systems engineering focuses on the generation, transmission, and distribution of electrical power.",
+        "skills": [
+          {
+            "name": "Power Grid Analysis",
+            "description": "Analyzing and optimizing electrical power distribution grids.",
+            "type": "Skill"
+          },
+          {
+            "name": "Renewable Energy Integration",
+            "description": "Integrating renewable energy sources like solar and wind into power systems.",
+            "type": "Skill"
+          },
+          {
+            "name": "High Voltage Engineering",
+            "description": "Working with high-voltage systems and equipment.",
+            "type": "Skill"
+          },
+          {
+            "name": "Microelectronics",
+            "description": "Designing and working with microelectronic circuits and devices.",
+            "type": "Skill"
+          },
+          {
+            "name": "Power Electronics",
+            "description": "Developing power electronic systems and converters.",
+            "type": "Skill"
+          },
+          {
+            "name": "Electronic Communication",
+            "description": "Designing and implementing communication systems and networks.",
+            "type": "Skill"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Electronics",
+        "description": "Electronics engineering involves designing and developing electronic circuits and devices.",
+        "skills": [
+          {
+            "name": "Circuit Design",
+            "description": "Designing electronic circuits for various applications.",
+            "type": "Skill"
+          },
+          {
+            "name": "Embedded Systems",
+            "description": "Programming and designing embedded systems for specific tasks.",
+            "type": "Skill"
+          },
+          {
+            "name": "Analog and Digital Electronics",
+            "description": "Working with both analog and digital electronic components.",
+            "type": "Skill"
+          },
+          {
+            "name": "Microelectronics",
+            "description": "Designing and working with microelectronic circuits and devices.",
+            "type": "Skill"
+          },
+          {
+            "name": "Power Electronics",
+            "description": "Developing power electronic systems and converters.",
+            "type": "Skill"
+          },
+          {
+            "name": "Electronic Communication",
+            "description": "Designing and implementing communication systems and networks.",
+            "type": "Skill"
+          }
+        ]
+      }
+    ],
+    "chemical_engineering": [
+      {
+        "id": 1,
+        "title": "Chemical Process Engineering",
+        "description": "Chemical process engineering involves designing and optimizing chemical processes.",
+        "skills": [
+          {
+            "name": "Process Flow Diagrams (PFDs)",
+            "description": "Creating PFDs to represent chemical processes.",
+            "type": "Skill"
+          },
+          {
+            "name": "Chemical Reaction Engineering",
+            "description": "Understanding and optimizing chemical reactions in processes.",
+            "type": "Skill"
+          },
+          {
+            "name": "Process Safety Management",
+            "description": "Implementing safety measures in chemical processes to prevent accidents.",
+            "type": "Skill"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Materials Science",
+        "description": "Materials science focuses on the study of materials and their properties.",
+        "skills": [
+          {
+            "name": "Material Characterization",
+            "description": "Characterizing materials through various testing and analysis techniques.",
+            "type": "Skill"
+          },
+          {
+            "name": "Polymer Science",
+            "description": "Studying the properties and applications of polymers.",
+            "type": "Skill"
+          },
+          {
+            "name": "Nanotechnology",
+            "description": "Working with materials at the nanoscale for advanced applications.",
+            "type": "Skill"
+          }
+        ]
+      }
+    ],
+    "environmental_engineering": [
+      {
+        "id": 1,
+        "title": "Water Resources Engineering",
+        "description": "Water resources engineering deals with the management and conservation of water resources.",
+        "skills": [
+          {
+            "name": "Hydrology",
+            "description": "Studying the movement and distribution of water in the environment.",
+            "type": "Skill"
+          },
+          {
+            "name": "Water Quality Management",
+            "description": "Monitoring and improving water quality in natural and engineered systems.",
+            "type": "Skill"
+          },
+          {
+            "name": "Wastewater Treatment",
+            "description": "Designing and operating wastewater treatment systems.",
+            "type": "Skill"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Air Quality Engineering",
+        "description": "Air quality engineering focuses on controlling and improving air quality.",
+        "skills": [
+          {
+            "name": "Air Pollution Control",
+            "description": "Developing technologies and strategies to control air pollution.",
+            "type": "Skill"
+          },
+          {
+            "name": "Indoor Air Quality",
+            "description": "Improving air quality in indoor environments like buildings and homes.",
+            "type": "Skill"
+          },
+          {
+            "name": "Emission Reduction Techniques",
+            "description": "Implementing methods to reduce emissions from industrial processes.",
+            "type": "Skill"
+          }
+        ]
+      }
+    ],    
+  "art": [
+    {
+      "id": 1,
+      "title": "Digital Illustration",
+      "description": "Create stunning digital artwork and illustrations.",
+      "skills": [
+        {
+          "name": "Adobe Photoshop",
+          "description": "Digital painting and editing in Photoshop.",
+          "type": "Tool"
+        },
+        {
+          "name": "Illustration Techniques",
+          "description": "Mastering various digital illustration techniques.",
+          "type": "Skill"
+        },
+        {
+          "name": "Color Theory",
+          "description": "Understanding the principles of color and its use in visual art.",
+          "type": "Skill"
+        },
+        {
+          "name": "Composition",
+          "description": "Learning how to arrange elements within a piece of artwork for visual impact.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "3D Modeling",
+      "description": "Design 3D models for games, movies, and more.",
+      "skills": [
+        {
+          "name": "Autodesk Maya",
+          "description": "Creating 3D models and animations with Maya.",
+          "type": "Tool"
+        },
+        {
+          "name": "Texturing and Shading",
+          "description": "Applying textures and shaders to 3D models.",
+          "type": "Skill"
+        },
+        {
+          "name": "Sculpting",
+          "description": "Sculpting digital 3D models for detailed and organic shapes.",
+          "type": "Skill"
+        },
+        {
+          "name": "Lighting and Rendering",
+          "description": "Understanding how to light and render 3D scenes for realistic or stylized effects.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Traditional Drawing",
+      "description": "Develop drawing skills through traditional art techniques.",
+      "skills": [
+        {
+          "name": "Sketching",
+          "description": "Mastering the art of freehand sketching and preliminary drawing.",
+          "type": "Skill"
+        },
+        {
+          "name": "Inking",
+          "description": "Creating clean and expressive lines using various inking techniques.",
+          "type": "Skill"
+        },
+        {
+          "name": "Watercolor Painting",
+          "description": "Using watercolors to add color and depth to illustrations.",
+          "type": "Skill"
+        },
+        {
+          "name": "Life Drawing",
+          "description": "Drawing from observation, particularly the human figure, to improve anatomical understanding.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Digital Art Software",
+      "description": "Explore various digital art software tools for creative expression.",
+      "skills": [
+        {
+          "name": "Adobe Illustrator",
+          "description": "Creating vector-based artwork and graphics in Adobe Illustrator.",
+          "type": "Tool"
+        },
+        {
+          "name": "Corel Painter",
+          "description": "Using Corel Painter for natural media digital painting.",
+          "type": "Tool"
+        },
+        {
+          "name": "Clip Studio Paint",
+          "description": "Digital drawing and illustration with Clip Studio Paint.",
+          "type": "Tool"
+        },
+        {
+          "name": "Procreate",
+          "description": "Digital painting and illustration on iPad with Procreate.",
+          "type": "Tool"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Art History",
+      "description": "Studying the history of art, including different art movements and influential artists.",
+      "skills": [
+        {
+          "name": "Art Movements",
+          "description": "Understanding major art movements like Renaissance, Impressionism, and Cubism.",
+          "type": "Skill"
+        },
+        {
+          "name": "Art Appreciation",
+          "description": "Developing an appreciation for art by analyzing and critiquing famous artworks.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Digital Art Printing",
+      "description": "Preparing digital artwork for printing on various mediums.",
+      "skills": [
+        {
+          "name": "Print File Preparation",
+          "description": "Optimizing digital files for high-quality printing.",
+          "type": "Skill"
+        },
+        {
+          "name": "Understanding Printing Technologies",
+          "description": "Familiarity with different printing technologies and their applications.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Artistic Anatomy",
+      "description": "Studying the anatomy of humans and animals to improve figurative art.",
+      "skills": [
+        {
+          "name": "Human Anatomy",
+          "description": "Understanding the anatomy of the human body for realistic figure drawing.",
+          "type": "Skill"
+        },
+        {
+          "name": "Animal Anatomy",
+          "description": "Learning the anatomy of animals for accurate depictions in art.",
+          "type": "Skill"
+        }
+      ]
+    }
+  ],
+  "physics": [
+    {
+      "id": 1,
+      "title": "Mechanics",
+      "description": "Mechanics is the branch of physics that deals with the motion of objects and the forces that cause that motion.",
+      "skills": [
+        {
+          "name": "Kinematics",
+          "description": "The description of motion.",
+          "type": "Skill"
+        },
+        {
+          "name": "Dynamics",
+          "description": "The study of forces and motion.",
+          "type": "Skill"
+        },
+        {
+          "name": "Statics",
+          "description": "The study of objects at rest.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Electromagnetism",
+      "description": "Electromagnetism is a branch of physics that deals with the study of electric and magnetic fields.",
+      "skills": [
+        {
+          "name": "Electric Fields",
+          "description": "Understanding electric fields and their properties.",
+          "type": "Skill"
+        },
+        {
+          "name": "Magnetic Fields",
+          "description": "Understanding magnetic fields and their properties.",
+          "type": "Skill"
+        },
+        {
+          "name": "Electromagnetic Waves",
+          "description": "Study of electromagnetic wave propagation.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Thermodynamics",
+      "description": "Thermodynamics is the study of heat and energy transfer.",
+      "skills": [
+        {
+          "name": "Temperature and Heat",
+          "description": "Understanding temperature, heat transfer, and calorimetry.",
+          "type": "Skill"
+        },
+        {
+          "name": "Laws of Thermodynamics",
+          "description": "Exploring the fundamental laws of thermodynamics.",
+          "type": "Skill"
+        },
+        {
+          "name": "Heat Engines",
+          "description": "Study of heat engines and their efficiency.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Optics",
+      "description": "Optics is the branch of physics that focuses on the behavior of light.",
+      "skills": [
+        {
+          "name": "Reflection and Refraction",
+          "description": "Understanding how light behaves when it encounters different media.",
+          "type": "Skill"
+        },
+        {
+          "name": "Wave-Particle Duality",
+          "description": "Exploring the wave-particle nature of light.",
+          "type": "Skill"
+        },
+        {
+          "name": "Lenses and Mirrors",
+          "description": "Study of optical components like lenses and mirrors.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Quantum Mechanics",
+      "description": "Quantum Mechanics is a fundamental theory in physics that describes the behavior of matter and energy at the smallest scales, such as atoms and subatomic particles.",
+      "skills": [
+        {
+          "name": "Wave-Particle Duality",
+          "description": "Understanding the wave-particle nature of particles.",
+          "type": "Skill"
+        },
+        {
+          "name": "Quantum States",
+          "description": "Study of quantum states and wavefunctions.",
+          "type": "Skill"
+        },
+        {
+          "name": "Quantum Mechanics Equations",
+          "description": "Exploration of Schrödinger's equation and other quantum equations.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Relativity",
+      "description": "Relativity theory, developed by Albert Einstein, includes both special relativity and general relativity.",
+      "skills": [
+        {
+          "name": "Special Relativity",
+          "description": "Dealing with physics of objects moving at constant velocity.",
+          "type": "Skill"
+        },
+        {
+          "name": "General Relativity",
+          "description": "Extension of special relativity to include gravity and spacetime curvature.",
+          "type": "Skill"
+        },
+        {
+          "name": "Cosmological Implications",
+          "description": "Exploring the cosmological implications of general relativity.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Nuclear Physics",
+      "description": "Nuclear physics is the study of atomic nuclei and their interactions.",
+      "skills": [
+        {
+          "name": "Nuclear Reactions",
+          "description": "Understanding nuclear reactions and decay processes.",
+          "type": "Skill"
+        },
+        {
+          "name": "Particle Physics",
+          "description": "Exploring the behavior of subatomic particles within atomic nuclei.",
+          "type": "Skill"
+        },
+        {
+          "name": "Nuclear Energy",
+          "description": "Study of nuclear energy and its applications.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Physics in Games",
+      "description": "Physics in games refers to the application of physics principles and simulations in the development of video games and simulations.",
+      "skills": [
+        {
+          "name": "Game Physics Engines",
+          "description": "Understanding and using game physics engines for realistic game interactions.",
+          "type": "Skill"
+        },
+        {
+          "name": "Character Physics",
+          "description": "Implementing physics for character movements and animations in games.",
+          "type": "Skill"
+        },
+        {
+          "name": "Collision Detection",
+          "description": "Handling collision detection and physics responses in games.",
+          "type": "Skill"
+        }
+      ]
+    }
+  ],
+  "biology": [
+    {
+      "id": 1,
+      "title": "Genetics",
+      "description": "Genetics is the study of genes, heredity, and variation in living organisms.",
+      "skills": [
+        {
+          "name": "Mendelian Genetics",
+          "description": "Understanding basic principles of inheritance through Mendelian genetics.",
+          "type": "Skill"
+        },
+        {
+          "name": "Molecular Genetics",
+          "description": "Study of DNA, genes, and genetic processes at the molecular level.",
+          "type": "Skill"
+        },
+        {
+          "name": "Genome Mapping",
+          "description": "Mapping and sequencing of genomes for various organisms.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ecology",
+      "description": "Ecology is the study of the interactions of organisms with their environment and each other.",
+      "skills": [
+        {
+          "name": "Ecosystem Dynamics",
+          "description": "Understanding the dynamics and functioning of ecosystems.",
+          "type": "Skill"
+        },
+        {
+          "name": "Population Ecology",
+          "description": "Study of populations, their distribution, and factors affecting them.",
+          "type": "Skill"
+        },
+        {
+          "name": "Conservation Biology",
+          "description": "Efforts to conserve and protect biodiversity and ecosystems.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Botany",
+      "description": "Botany is the study of plants, their growth, structure, and physiology.",
+      "skills": [
+        {
+          "name": "Plant Anatomy",
+          "description": "Study of plant tissue and cellular structure.",
+          "type": "Skill"
+        },
+        {
+          "name": "Plant Physiology",
+          "description": "Understanding the physiological processes in plants.",
+          "type": "Skill"
+        },
+        {
+          "name": "Plant Taxonomy",
+          "description": "Classification and identification of plant species.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Microbiology",
+      "description": "Microbiology is the study of microorganisms, including bacteria, viruses, and fungi.",
+      "skills": [
+        {
+          "name": "Bacteriology",
+          "description": "Study of bacteria and their roles in health and disease.",
+          "type": "Skill"
+        },
+        {
+          "name": "Virology",
+          "description": "Understanding viruses and their interactions with hosts.",
+          "type": "Skill"
+        },
+        {
+          "name": "Microbial Genetics",
+          "description": "Genetics of microorganisms and their applications.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Zoology",
+      "description": "Zoology is the study of animals, their behavior, physiology, and classification.",
+      "skills": [
+        {
+          "name": "Animal Behavior",
+          "description": "Study of animal behavior patterns and interactions.",
+          "type": "Skill"
+        },
+        {
+          "name": "Comparative Anatomy",
+          "description": "Comparing the anatomical structures of different animal species.",
+          "type": "Skill"
+        },
+        {
+          "name": "Animal Physiology",
+          "description": "Understanding physiological processes in animals.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Biochemistry",
+      "description": "Biochemistry focuses on the chemical processes and substances that occur within living organisms.",
+      "skills": [
+        {
+          "name": "Enzyme Kinetics",
+          "description": "Study of enzyme-catalyzed reactions and kinetics.",
+          "type": "Skill"
+        },
+        {
+          "name": "Metabolism",
+          "description": "Understanding metabolic pathways and energy production.",
+          "type": "Skill"
+        },
+        {
+          "name": "Protein Structure",
+          "description": "Analysis of protein structures and functions.",
+          "type": "Skill"
+        }
+      ]
+    }
+  ],
+  "chemistry": [
+    {
+      "id": 1,
+      "title": "Organic Chemistry",
+      "description": "Organic chemistry is the study of carbon-containing compounds, including hydrocarbons and their derivatives.",
+      "skills": [
+        {
+          "name": "Functional Groups",
+          "description": "Understanding and identifying functional groups in organic molecules.",
+          "type": "Skill"
+        },
+        {
+          "name": "Reaction Mechanisms",
+          "description": "Study of reaction mechanisms and pathways in organic chemistry.",
+          "type": "Skill"
+        },
+        {
+          "name": "Synthetic Chemistry",
+          "description": "Design and synthesis of organic compounds.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Inorganic Chemistry",
+      "description": "Inorganic chemistry focuses on the properties and behavior of inorganic compounds, which do not contain carbon-hydrogen bonds.",
+      "skills": [
+        {
+          "name": "Coordination Chemistry",
+          "description": "Study of coordination compounds and their structures.",
+          "type": "Skill"
+        },
+        {
+          "name": "Transition Metals",
+          "description": "Understanding the chemistry of transition metal elements.",
+          "type": "Skill"
+        },
+        {
+          "name": "Main Group Chemistry",
+          "description": "Chemistry of main group elements and compounds.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Physical Chemistry",
+      "description": "Physical chemistry combines principles of physics and chemistry to understand the physical properties and behavior of chemical systems.",
+      "skills": [
+        {
+          "name": "Thermodynamics",
+          "description": "Study of energy changes in chemical processes.",
+          "type": "Skill"
+        },
+        {
+          "name": "Quantum Chemistry",
+          "description": "Application of quantum mechanics to chemical systems.",
+          "type": "Skill"
+        },
+        {
+          "name": "Chemical Kinetics",
+          "description": "Study of reaction rates and mechanisms.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Analytical Chemistry",
+      "description": "Analytical chemistry involves the identification and quantification of chemical substances.",
+      "skills": [
+        {
+          "name": "Spectroscopy",
+          "description": "Use of spectroscopic techniques for chemical analysis.",
+          "type": "Skill"
+        },
+        {
+          "name": "Chromatography",
+          "description": "Separation techniques in chemical analysis.",
+          "type": "Skill"
+        },
+        {
+          "name": "Analytical Instrumentation",
+          "description": "Operation and maintenance of analytical instruments.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Biochemistry",
+      "description": "Biochemistry explores the chemical processes and substances in living organisms.",
+      "skills": [
+        {
+          "name": "Enzyme Kinetics",
+          "description": "Study of enzyme-catalyzed reactions and kinetics.",
+          "type": "Skill"
+        },
+        {
+          "name": "Metabolism",
+          "description": "Understanding metabolic pathways and energy production in living systems.",
+          "type": "Skill"
+        },
+        {
+          "name": "Molecular Biology Techniques",
+          "description": "Techniques for studying and manipulating biomolecules.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Environmental Chemistry",
+      "description": "Environmental chemistry focuses on the study of chemical processes and compounds in the environment.",
+      "skills": [
+        {
+          "name": "Pollution Control",
+          "description": "Methods for controlling and mitigating environmental pollution.",
+          "type": "Skill"
+        },
+        {
+          "name": "Chemical Analysis of Environmental Samples",
+          "description": "Analytical techniques for studying pollutants in the environment.",
+          "type": "Skill"
+        },
+        {
+          "name": "Environmental Impact Assessment",
+          "description": "Assessing the environmental impact of chemical processes and pollutants.",
+          "type": "Skill"
+        }
+      ]
+    }
+  ],
+  "astronomy": [
+    {
+      "id": 1,
+      "title": "Astronomical Observations",
+      "description": "Astronomical observations involve the study of celestial objects and phenomena through telescopes and other instruments.",
+      "skills": [
+        {
+          "name": "Telescope Operation",
+          "description": "Operating and maintaining telescopes for astronomical observations.",
+          "type": "Skill"
+        },
+        {
+          "name": "Astronomical Imaging",
+          "description": "Capturing and processing astronomical images.",
+          "type": "Skill"
+        },
+        {
+          "name": "Sky Surveys",
+          "description": "Conducting and analyzing large-scale sky surveys to discover new objects.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Celestial Mechanics",
+      "description": "Celestial mechanics focuses on the motion of celestial objects, including planets, moons, and asteroids.",
+      "skills": [
+        {
+          "name": "Orbital Mechanics",
+          "description": "Understanding the mechanics of celestial orbits.",
+          "type": "Skill"
+        },
+        {
+          "name": "Gravitational Interactions",
+          "description": "Study of gravitational forces and their effects on celestial bodies.",
+          "type": "Skill"
+        },
+        {
+          "name": "Space Debris Tracking",
+          "description": "Tracking and predicting the movement of space debris and satellites.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Astrophysics",
+      "description": "Astrophysics explores the physical properties and processes of celestial objects, including stars, galaxies, and black holes.",
+      "skills": [
+        {
+          "name": "Stellar Astrophysics",
+          "description": "Study of the physical properties and life cycles of stars.",
+          "type": "Skill"
+        },
+        {
+          "name": "Galactic Dynamics",
+          "description": "Understanding the structure and dynamics of galaxies.",
+          "type": "Skill"
+        },
+        {
+          "name": "High-Energy Astrophysics",
+          "description": "Study of high-energy phenomena in the universe, such as gamma-ray bursts and quasars.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Cosmology",
+      "description": "Cosmology is the study of the origin, evolution, and large-scale structure of the universe.",
+      "skills": [
+        {
+          "name": "Big Bang Theory",
+          "description": "Understanding the Big Bang theory and the early universe.",
+          "type": "Skill"
+        },
+        {
+          "name": "Dark Matter and Dark Energy",
+          "description": "Exploring the nature of dark matter and dark energy in the universe.",
+          "type": "Skill"
+        },
+        {
+          "name": "Cosmic Microwave Background",
+          "description": "Study of the cosmic microwave background radiation as a remnant of the Big Bang.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Planetary Science",
+      "description": "Planetary science involves the study of planets, moons, and other objects within our solar system and beyond.",
+      "skills": [
+        {
+          "name": "Planetary Geology",
+          "description": "Geological study of planetary surfaces and their history.",
+          "type": "Skill"
+        },
+        {
+          "name": "Exoplanet Research",
+          "description": "Discovery and characterization of exoplanets in other star systems.",
+          "type": "Skill"
+        },
+        {
+          "name": "Space Missions",
+          "description": "Planning and conducting space missions to study planets and celestial bodies.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Astrobiology",
+      "description": "Astrobiology explores the potential for life beyond Earth and the conditions necessary for life to exist elsewhere in the universe.",
+      "skills": [
+        {
+          "name": "Search for Extraterrestrial Life",
+          "description": "Methods and strategies for detecting signs of life on other planets.",
+          "type": "Skill"
+        },
+        {
+          "name": "Extreme Environments",
+          "description": "Study of extremophiles and life in extreme environments as analogs for extraterrestrial life.",
+          "type": "Skill"
+        },
+        {
+          "name": "Astrochemistry",
+          "description": "Chemical processes relevant to the origins of life in the universe.",
+          "type": "Skill"
+        }
+      ]
+    }
+  ],
+  "psychology": [
+    {
+      "id": 1,
+      "title": "Clinical Psychology",
+      "description": "Clinical psychology focuses on the assessment, diagnosis, and treatment of mental and emotional disorders.",
+      "skills": [
+        {
+          "name": "Psychotherapy",
+          "description": "Providing therapy and counseling to individuals with psychological issues.",
+          "type": "Skill"
+        },
+        {
+          "name": "Assessment and Diagnosis",
+          "description": "Conducting psychological assessments and diagnosing mental health conditions.",
+          "type": "Skill"
+        },
+        {
+          "name": "Treatment Planning",
+          "description": "Developing and implementing treatment plans for clients.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Cognitive Psychology",
+      "description": "Cognitive psychology explores mental processes such as perception, memory, and problem-solving.",
+      "skills": [
+        {
+          "name": "Memory Research",
+          "description": "Study of human memory and memory processes.",
+          "type": "Skill"
+        },
+        {
+          "name": "Problem-Solving Studies",
+          "description": "Research on problem-solving strategies and decision-making.",
+          "type": "Skill"
+        },
+        {
+          "name": "Perception Studies",
+          "description": "Investigating how individuals perceive and interpret sensory information.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Developmental Psychology",
+      "description": "Developmental psychology examines human growth and development across the lifespan.",
+      "skills": [
+        {
+          "name": "Child Development",
+          "description": "Study of physical, cognitive, and social development in children.",
+          "type": "Skill"
+        },
+        {
+          "name": "Adolescent Psychology",
+          "description": "Exploring the unique challenges and changes during adolescence.",
+          "type": "Skill"
+        },
+        {
+          "name": "Aging and Gerontology",
+          "description": "Study of aging processes and issues in older adults.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Social Psychology",
+      "description": "Social psychology focuses on how individuals' thoughts, feelings, and behaviors are influenced by social interactions and contexts.",
+      "skills": [
+        {
+          "name": "Social Influence Studies",
+          "description": "Research on social influence, conformity, and persuasion.",
+          "type": "Skill"
+        },
+        {
+          "name": "Group Dynamics",
+          "description": "Exploring the dynamics of group behavior and interactions.",
+          "type": "Skill"
+        },
+        {
+          "name": "Cross-Cultural Psychology",
+          "description": "Comparative study of cultural influences on behavior and cognition.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Biological Psychology",
+      "description": "Biological psychology investigates the biological basis of behavior and mental processes.",
+      "skills": [
+        {
+          "name": "Neurobiology",
+          "description": "Study of the nervous system and its role in behavior.",
+          "type": "Skill"
+        },
+        {
+          "name": "Brain Imaging",
+          "description": "Use of neuroimaging techniques to study brain structure and function.",
+          "type": "Skill"
+        },
+        {
+          "name": "Psychopharmacology",
+          "description": "Research on the effects of drugs and medications on mental processes.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Industrial-Organizational Psychology",
+      "description": "Industrial-organizational psychology focuses on the application of psychological principles in the workplace and organizational settings.",
+      "skills": [
+        {
+          "name": "Employee Assessment",
+          "description": "Assessing employee performance and job satisfaction.",
+          "type": "Skill"
+        },
+        {
+          "name": "Organizational Behavior",
+          "description": "Understanding individual and group behavior within organizations.",
+          "type": "Skill"
+        },
+        {
+          "name": "Leadership Development",
+          "description": "Developing leadership skills and strategies in the workplace.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Forensic Psychology",
+      "description": "Forensic psychology applies psychological principles to legal and criminal justice contexts.",
+      "skills": [
+        {
+          "name": "Criminal Profiling",
+          "description": "Creating profiles of potential suspects based on psychological analysis.",
+          "type": "Skill"
+        },
+        {
+          "name": "Witness Testimony",
+          "description": "Assessing the reliability and credibility of witness testimony.",
+          "type": "Skill"
+        },
+        {
+          "name": "Mental Health Assessment in Legal Cases",
+          "description": "Conducting psychological evaluations in legal cases.",
+          "type": "Skill"
+        }
+      ]
+    }
+  ],
+  "social_science": [
+    {
+      "id": 1,
+      "title": "Sociology",
+      "description": "Sociology is the study of society, human behavior, and social interactions.",
+      "skills": [
+        {
+          "name": "Social Research",
+          "description": "Conducting research on social phenomena and human behavior.",
+          "type": "Skill"
+        },
+        {
+          "name": "Social Theory",
+          "description": "Understanding and applying social theories to analyze society.",
+          "type": "Skill"
+        },
+        {
+          "name": "Cultural Analysis",
+          "description": "Analysis of cultural norms, values, and practices in society.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Anthropology",
+      "description": "Anthropology explores human cultures, societies, and the evolution of humanity.",
+      "skills": [
+        {
+          "name": "Cultural Anthropology",
+          "description": "Study of contemporary human cultures and societies.",
+          "type": "Skill"
+        },
+        {
+          "name": "Archaeology",
+          "description": "Excavation and analysis of archaeological sites and artifacts.",
+          "type": "Skill"
+        },
+        {
+          "name": "Biological Anthropology",
+          "description": "Study of human biological evolution and variation.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Political Science",
+      "description": "Political Science examines political systems, government, and political behavior.",
+      "skills": [
+        {
+          "name": "Political Analysis",
+          "description": "Analyzing political systems, policies, and government behavior.",
+          "type": "Skill"
+        },
+        {
+          "name": "International Relations",
+          "description": "Study of interactions between countries and international organizations.",
+          "type": "Skill"
+        },
+        {
+          "name": "Policy Development",
+          "description": "Developing and evaluating government policies and programs.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Economics",
+      "description": "Economics explores the production, distribution, and consumption of goods and services.",
+      "skills": [
+        {
+          "name": "Microeconomics",
+          "description": "Study of individual and firm-level economic behavior.",
+          "type": "Skill"
+        },
+        {
+          "name": "Macroeconomics",
+          "description": "Analysis of the overall economy, including inflation, unemployment, and GDP.",
+          "type": "Skill"
+        },
+        {
+          "name": "Econometrics",
+          "description": "Application of statistical methods to economic data and models.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Psychology",
+      "description": "Psychology is the study of human behavior, emotions, and mental processes.",
+      "skills": [
+        {
+          "name": "Psychotherapy",
+          "description": "Providing therapy and counseling to individuals with psychological issues.",
+          "type": "Skill"
+        },
+        {
+          "name": "Assessment and Diagnosis",
+          "description": "Conducting psychological assessments and diagnosing mental health conditions.",
+          "type": "Skill"
+        },
+        {
+          "name": "Research Methods in Psychology",
+          "description": "Applying research methods to study human behavior and cognition.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Geography",
+      "description": "Geography explores the Earth's physical features, landscapes, and human-environment interactions.",
+      "skills": [
+        {
+          "name": "Physical Geography",
+          "description": "Study of Earth's physical features, such as landforms and climate.",
+          "type": "Skill"
+        },
+        {
+          "name": "Human Geography",
+          "description": "Analysis of human populations, cultures, and urban environments.",
+          "type": "Skill"
+        },
+        {
+          "name": "GIS and Spatial Analysis",
+          "description": "Use of Geographic Information Systems (GIS) for spatial data analysis.",
+          "type": "Skill"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "History",
+      "description": "History examines past events, societies, and their impact on the present.",
+      "skills": [
+        {
+          "name": "Historical Research",
+          "description": "Conducting research on historical events and sources.",
+          "type": "Skill"
+        },
+        {
+          "name": "Historical Analysis",
+          "description": "Analyzing historical events and their significance.",
+          "type": "Skill"
+        },
+        {
+          "name": "Archival and Primary Source Analysis",
+          "description": "Examination of primary historical documents and sources.",
+          "type": "Skill"
+        }
+      ]
+    }
+  ]
+}
